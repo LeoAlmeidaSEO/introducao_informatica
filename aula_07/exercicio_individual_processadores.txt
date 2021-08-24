@@ -1,3 +1,3 @@
-Matilda - Intel Core i5-6360U - Adobe After Effects
-Marcelo - Intel Core i3-3217UE - Pacote Office
-Carlos - Intel Core i7-4790 - Cyber Punk
+Matilda - Intel Core i5-6360U - Adobe After Effects (Exige menos processamento comparado com jogo cyber punk)
+Marcelo - Intel Core i3-3217UE - Pacote Office (Exige menos processamento comparado com jogo e softare de edição de video)
+Carlos - Intel Core i7-4790 - Cyber Punk (Exige mais processamento comparado com edição de video)
